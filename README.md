@@ -1,2 +1,2 @@
 # Technical-Text-Classification
-<img title="" src="" alt="All models.png">
+<img title="" src="" alt="All models.PNG">
